@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "find_max_numbers_of_file/params/take"
+
+FindMaxNumbersOfFile::Params::Take.start(ARGV)

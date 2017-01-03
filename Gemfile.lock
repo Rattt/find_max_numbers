@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    find_max_numbers_of_file (0.1.0)
+      thor (= 0.19.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.4.2)
+    thor (0.19.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.13)
+  find_max_numbers_of_file!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.13.6
